@@ -1,0 +1,27 @@
+.note {
+    color: blue;
+    border: 10px; 
+}
+
+h2 {
+    color:blueviolet;
+}
+
+p {
+    border-style: dotted;
+}
+
+.full {
+    color: orange;
+    display: grid;
+    grid-template-columns: 50%, 50%;
+}
+
+.half1 {
+    color: pink
+}
+
+.half2 {
+    color: orange
+}
+
